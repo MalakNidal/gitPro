@@ -1,0 +1,16 @@
+C:\Users\pc\div\gitPro\bin\Debug\net5.0\gitPro.exe
+C:\Users\pc\div\gitPro\bin\Debug\net5.0\gitPro.deps.json
+C:\Users\pc\div\gitPro\bin\Debug\net5.0\gitPro.runtimeconfig.json
+C:\Users\pc\div\gitPro\bin\Debug\net5.0\gitPro.runtimeconfig.dev.json
+C:\Users\pc\div\gitPro\bin\Debug\net5.0\gitPro.dll
+C:\Users\pc\div\gitPro\bin\Debug\net5.0\ref\gitPro.dll
+C:\Users\pc\div\gitPro\bin\Debug\net5.0\gitPro.pdb
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\gitPro.csprojAssemblyReference.cache
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\gitPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\gitPro.AssemblyInfoInputs.cache
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\gitPro.AssemblyInfo.cs
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\gitPro.csproj.CoreCompileInputs.cache
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\gitPro.dll
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\ref\gitPro.dll
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\gitPro.pdb
+C:\Users\pc\div\gitPro\obj\Debug\net5.0\gitPro.genruntimeconfig.cache
